@@ -1,0 +1,12 @@
+.carousel_box{
+    width: 100%;
+    overflow: hidden;
+    .img_box{
+        width: 100%;
+        height: 600px;
+        img{
+            max-height: 100%;
+            float: left;
+        }
+    }
+}
